@@ -1,0 +1,12 @@
+{
+  "project": "lazy-automation-project",
+  "tasks": [
+    "organize_files",
+    "bulk_rename",
+    "resize_images",
+    "remove_duplicates",
+    "summarize_texts",
+    "backup_folder"
+  ],
+  "created_with": "Kiro"
+}
